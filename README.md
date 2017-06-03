@@ -1,6 +1,6 @@
-#How-to-Use-Git-03-Juni-2017
+# How-to-Use-Git-03-Juni-2017
 
-#Kelompok
+# Kelompok
 
 1. MUHAMMAD RIDWAN KURNIAWAN NIM 165410143 "upstream";
 2. Rohim Mustofa NIM 145410205 "contributor";
